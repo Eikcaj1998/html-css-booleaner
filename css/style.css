@@ -1,6 +1,5 @@
 body{
-    text-align: center;
-    margin: 0px;
+    width: 1080px;
 }
 header{
     background-color: #0e88bf;
@@ -9,7 +8,8 @@ header{
     background-repeat: repeat;
     margin: 0px;
     font-size: 36px;
-    line-height: 70px;
+    line-height: 70px;   
+    
     
 }
 
@@ -27,6 +27,9 @@ figure{
 .autore{
    color: grey;
 }
+ul{
+    padding-inline-start: 20px;
+}
 .blu{
     color: blue;
 }
@@ -42,4 +45,15 @@ thead{
 }
 table{
     border-spacing: 0px;
+}
+footer{
+    color: grey;
+    margin-left: 10px;
+}
+figure{
+    margin-left: 1px;
+    margin-bottom: 0px;
+}
+#persone{
+    font-size: 12px;
 }
