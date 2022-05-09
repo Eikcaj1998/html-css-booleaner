@@ -33,3 +33,13 @@ figure{
 .giallo{
     background-color: yellow;
 }
+thead{
+    background-color: blue;
+    color: white;
+}
+.primo{
+    background-color: aqua;
+}
+table{
+    border-spacing: 0px;
+}
