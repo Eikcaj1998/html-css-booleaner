@@ -14,3 +14,16 @@ div{
   text-align: left;
 
 }
+main{
+    text-align: left;
+    padding: 10px;
+}
+figure{
+    background-size: auto;
+}
+.autore{
+   color: grey;
+}
+.blu{
+    color: blue;
+}
