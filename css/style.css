@@ -1,16 +1,28 @@
+.titolo2{
+margin-top: 0px;
+margin-bottom: 0px;
+}
 body{
+    margin: 0px;
+
+}
+.container{
     width: 1080px;
+
 }
 header{
     background-color: #0e88bf;
     background-size: cover;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
+    background-position: 20px;
     margin: 0px;
-    font-size: 36px;
-    line-height: 70px;   
-    
-    
+    font-size: 20px;
+    line-height: 20px;  
+    color: white;   
+}
+.titolo{
+    font-size: 10px;  
 }
 
 div{
