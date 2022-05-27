@@ -69,3 +69,18 @@ figure{
 #persone{
     font-size: 12px;
 }
+.bg{
+    height: 150px;
+    width: 200px;
+    color: white;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+}
+.monitor {
+    background: url('../img/monitor.jpg') no-repeat center;
+    background-size: cover;
+}
+.number{
+    background: url('../img/graph.jpg') no-repeat center;
+    background-size: cover;
+}
